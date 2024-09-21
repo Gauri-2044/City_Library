@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+.main-heading{
+    font-family:  "Ubuntu", sans-serif;
+}
+
+.bg-color{
+    background-color: #6439FF;
+}
+
+.color1{
+    background-color: #7CF5FF;
+}
+
+.color2{
+    background-color: #00CCDD;
+}
+
+.color3{
+    background-color: #4F75FF;
+}
+

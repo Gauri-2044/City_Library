@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  /* body{
+    width: 100vw;
+    height:100vh;
+  } */
+  @media  screen and (max-width:600px) {
+    .main-section{
+      flex-direction: column;
+    }
+    .right{
+      display: none;
+    }
+
+    
+  }
+  .main-section{
+    background-image: url("libraryImg.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  body{
+    font-size: 2rem;
+  }
+.like,.dislike{
+    font-size: 2rem;
+    color: red;
+  }
+
+.c2{
+  background-color: rgb(196, 15, 45);
+}
+
+.btn{
+  font-size: 2.5rem;
+}
+.c1{
+  background-color:black;
+  /* background-color:rgb(8, 78, 152); */
+}
+.slider{
+  border: 5px double black;
+  box-shadow: 2px 2px 2px black;
+  padding: 2rem;
+  border-radius: 5%;
+}
+
+.main_heading{
+font-size: 5rem;
+
+}
+
